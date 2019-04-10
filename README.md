@@ -1,4 +1,5 @@
 <span style='color:red'># Running bots at Scale</span>
+
 Guide to scale bots using Azure Bot Framework
 
 ## References
