@@ -1,4 +1,4 @@
-<span style='color:red'>Running bots at Scale</span>
+# Running bots at Scale
 
 Guide to scale bots using Azure Bot Framework
 
