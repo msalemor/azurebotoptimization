@@ -1,4 +1,4 @@
-# Azure Bot Optimization
+# Running bots at Scale
 Guide to scale bots using Azure Bot Framework
 
 ## References
