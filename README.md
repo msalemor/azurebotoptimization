@@ -1,6 +1,6 @@
 # Running bots at Scale
 
-Guide to scale bots using Azure Bot Framework
+Guide to scale bots using Azure Bot Framework.
 
 ## References
 
